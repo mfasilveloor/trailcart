@@ -45,8 +45,10 @@ INSTALLED_APPS = [
     'whitenoise.runserver_nostatic',
     'django.contrib.staticfiles',
     'django.contrib.flatpages',
+    'rest_framework',
 
     'oscar',
+    'oscarapi',
     'oscar.apps.analytics',
     'oscar.apps.checkout',
     'oscar.apps.address',

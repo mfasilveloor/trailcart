@@ -6,10 +6,12 @@ django-extra-views==0.11.0
 django-haystack==2.8.1
 django-heroku==0.3.1
 django-oscar==2.0.4
+django-oscar-api==2.0.1
 django-phonenumber-field==2.0.1
 django-tables2==1.21.2
 django-treebeard==4.3
 django-widget-tweaks==1.4.5
+djangorestframework==3.11.0
 factory-boy==2.12.0
 Faker==3.0.0
 gunicorn==20.0.4
